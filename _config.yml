@@ -31,6 +31,8 @@ timezone: Asia/Shanghai
 
 # Build settings
 remote_theme: riggraz/no-style-please
+theme_config:
+  appearance: "dark"
 plugins:
   - jekyll-feed
 
