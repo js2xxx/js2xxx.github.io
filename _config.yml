@@ -28,7 +28,7 @@ url: "https://js2xxx.github.io" # the base hostname & protocol for your site, e.
 github_username:  js2xxx
 
 # Build settings
-theme: minima
+remote_theme: no-style-please
 plugins:
   - jekyll-feed
 
