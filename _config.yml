@@ -27,6 +27,8 @@ url: "https://js2xxx.github.io" # the base hostname & protocol for your site, e.
 # twitter_username: jekyllrb
 github_username:  js2xxx
 
+timezone: Asia/Shanghai
+
 # Build settings
 remote_theme: riggraz/no-style-please
 plugins:
